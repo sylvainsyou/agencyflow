@@ -1,3 +1,3 @@
 # AgencyFlow
 
-Simple SaaS de gestion de projets avec timer, TJM et export CSV.
+SaaS de gestion de projets pour agences avec suivi du temps et rentabilité.

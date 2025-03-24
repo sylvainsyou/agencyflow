@@ -1,1 +1,0 @@
-<Le code React contenu dans le canvas sera placé ici.>

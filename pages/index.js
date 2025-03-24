@@ -1,4 +1,4 @@
-// Placeholder for Next.js index
+// Redirection ou info de page d’accueil
 export default function Home() {
-  return <div>Use /app to access AgencyFlow</div>;
+  return <div>Bienvenue sur AgencyFlow. Rendez-vous sur /app.</div>;
 }
