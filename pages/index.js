@@ -1,4 +1,4 @@
-// Redirection ou info de page d’accueil
+// Page d'accueil par défaut
 export default function Home() {
-  return <div>Bienvenue sur AgencyFlow. Rendez-vous sur /app.</div>;
+  return <div>Bienvenue sur AgencyFlow. Accédez à /app pour démarrer.</div>;
 }
